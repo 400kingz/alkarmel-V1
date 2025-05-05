@@ -3,13 +3,13 @@
   
   // Store hours
   const storeHours = [
-    { day: 'Monday', hours: '9:00 AM - 7:00 PM' },
-    { day: 'Tuesday', hours: '9:00 AM - 7:00 PM' },
-    { day: 'Wednesday', hours: '9:00 AM - 7:00 PM' },
-    { day: 'Thursday', hours: '9:00 AM - 7:00 PM' },
-    { day: 'Friday', hours: '8:00 AM - 8:00 PM' },
-    { day: 'Saturday', hours: '8:00 AM - 8:00 PM' },
-    { day: 'Sunday', hours: '10:00 AM - 6:00 PM' }
+    { day: 'Monday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Tuesday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Wednesday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Thursday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Friday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Saturday', hours: '8:00 AM - 11:00 PM' },
+    { day: 'Sunday', hours: '8:00 AM - 11:00 PM' }
   ];
   
   // Contact form state
@@ -78,7 +78,7 @@
               </div>
               <div>
                 <h3 class="font-bold text-neutral-800">Phone</h3>
-                <p class="text-neutral-600">(555) 123-4567</p>
+                <p class="text-neutral-600">(714) 400-5005</p>
               </div>
             </div>
             
@@ -105,7 +105,7 @@
               </div>
               <div>
                 <h3 class="font-bold text-neutral-800">Address</h3>
-                <p class="text-neutral-600">1234 Middle Eastern Way<br />Anytown, AN 12345</p>
+                <p class="text-neutral-600">521 S Brookhurst St<br />Anaheim, CA 92804</p>
               </div>
             </div>
           </div>

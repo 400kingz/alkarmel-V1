@@ -4,22 +4,22 @@
   // Team members
   const teamMembers = [
     {
-      name: "Mohammed Khader",
-      role: "Founder & Head Butcher",
-      image: "https://images.pexels.com/photos/8962431/pexels-photo-8962431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "With over 30 years of experience, Mohammed brings authentic Middle Eastern butchery techniques to Al Karmel."
+      name: "Ziyad",
+      role: "Founder",
+      image: "",
+      bio: "Founded Al Karmel through an inspiration from his father's meat and bakery back in Ramallah, Palestine."
     },
     {
-      name: "Leila Khader",
+      name: "Sanad",
+      role: "Head Butcher",
+      image: "",
+      bio: "With over 30 years of experience, Sanad brings authentic Middle Eastern butchery techniques to Al Karmel."
+    },
+    {
+      name: "Abo Sahar",
       role: "Master Baker",
-      image: "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Leila's traditional bread recipes have been passed down through generations, ensuring authentic flavors in every bite."
-    },
-    {
-      name: "Ahmad Khader",
-      role: "Store Manager",
-      image: "https://images.pexels.com/photos/7290829/pexels-photo-7290829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Ahmad ensures our customers receive the best service and the finest quality products every day."
+      image: "",
+      bio: "Abo Sahar's traditional bread recipes have been passed down through generations, ensuring authentic flavors in every bite."
     }
   ];
   
